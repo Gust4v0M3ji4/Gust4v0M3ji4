@@ -20,6 +20,7 @@
 - 🔹 **Plataforma Web con Firebase + Google Cloud + IA Gemini**  
   Web app con backend en Google Cloud Functions y Gemini 2.0 para integración IA.  
   Tecnologías: Firebase Auth, Firestore, Gemini Flash, Compute Engine.
+  https://midas-test-1f81d.web.app/
 
 ## 🌎 Idiomas
 - Español 🇪🇸 (nativo)  
