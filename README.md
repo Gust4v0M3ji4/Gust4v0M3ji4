@@ -1,10 +1,10 @@
 # 👋 ¡Hola! Soy Gustavo Mejía 👨‍💻
 
-🎓 Estudiante de Ciencias Computacionales en la UEES 
-💻 Fullstack Bootcamp @ ESPOL (actualmente en módulo UX)  
-🌐 Apasionado por la integración entre Software, Datos y AI 
-🏆 Finalista en concurso internacional de desarrollo en Unity  (QS IMPACT COMMUNITY)
-📍 Ecuador
+🎓 Estudiante de Ciencias Computacionales en la UEES.
+💻 Fullstack Bootcamp @ ESPOL (actualmente en módulo UX).
+🌐 Apasionado por la integración entre Software, Datos y AI.
+🏆 Finalista en concurso internacional de desarrollo en Unity  (QS IMPACT COMMUNITY).
+📍 Ecuador.
 
 ## 💼 Tecnologías & Herramientas
 - **Frontend**: HTML, CSS, TypeScript, JavaScript, Bootstrap 5, MUI  
