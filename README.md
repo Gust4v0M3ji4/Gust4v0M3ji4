@@ -2,7 +2,7 @@
 
 🎓 Estudiante de Ciencias Computacionales en la UEES.
 
-💻 Fullstack Bootcamp @ ESPOL (actualmente en módulo UX).
+💻 Fullstack Bootcamp @ ESPOL (actualmente en módulo REACT).
 
 🌐 Apasionado por la integración entre Software, Datos y AI.
 
